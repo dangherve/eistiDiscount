@@ -1,0 +1,49 @@
+50cd.gif
+lot 50 CD vierges
+Peur du rm -rf ? Mettez vos données sur ces CDs.
+20
+Livré en 24 heures
+Disponible
+none
+none
+50cd
+#
+100cd.gif
+lot 100 CD vierges
+Le produit parfait pour échanger des données.
+100
+Livré en 24 heures
+Disponible
+none
+none
+100cd
+#
+marqueur.gif
+Lot de 5 marqueurs multimedia
+Un stylo rouge, bleu, vert et deux noirs
+10
+Livré en 24 heures
+Disponible
+none
+none
+marqueur
+#
+disqueduriomega.gif
+Iomega StorCenter Network Hard Drive 250 Go Ethernet
+Disque dur externe en réseau avec serveur d'impression et serveur audio/vidéo, compatible PC et Mac.	Connexion Ethernet RJ-45, 2 ports USB 2.0 hôte
+250
+Livré en 24 heures
+Disponible
+none
+none
+disquedur
+#
+cadre.gif
+Cadre photo numérique pléci 9
+Lecteur de cartes mémoires : CompactFlash I, Memory Stick et Memory StickPro, SD/MMC. Connexion sur port USB, compatible PC, livré avec 4 cadres interchangeable
+200
+Livré en 24 heures
+Disponible
+none
+none
+cadre

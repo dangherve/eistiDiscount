@@ -1,0 +1,213 @@
+body{
+  background-image: url(wallpaper6.jpg);
+  background-attachment: fixed;
+}
+
+
+
+a:link{
+  color:white;
+}
+
+
+
+a:visited{
+  color:white;
+}
+
+
+
+.promo{
+  text-decoration: blink;
+}
+
+
+
+.Menuu{
+  margin-left: 30%;
+  font-size: large;
+  text-align: left;
+  color: #568932;
+}
+
+
+#interieur{
+  background-image: url(wallpaper4.jpg);
+  border-style:outset;
+  position: absolute;
+  margin-top: 5%;
+  border-color:white;
+  font-family:fantasy;
+  margin-left: 14%;
+  margin-bottom:92%;
+  width: 58%;
+}
+
+
+
+#menu1{
+  position:absolute;
+  border-style:outset;
+  margin-left:0%;
+  margin-top: 5%;
+  width:12.5%;
+  font-size: small;
+  text-align: left;
+  background-image:url(img3-2.jpeg);
+}
+
+
+
+.article{
+  color:black;
+}
+
+
+
+.prix{
+  margin-top: 0.5cm;
+  color:black;
+  font-size: large;
+  text-decoration:underline;
+}
+
+
+
+.menu{
+  color:white;
+  text-align:center;
+}
+
+
+
+
+.description{
+  color:black;
+}
+
+
+
+
+.livraison{
+  color:black;
+}
+
+
+
+.tableauproduit{
+  border-bottom-color:black;
+}
+
+
+
+.liens{
+  color:white;
+  text-align:left;
+}
+
+
+
+.stock{
+  color:black;
+}
+
+
+
+.pollux{
+  height: 2cm;
+
+}
+
+
+.article{
+  float: left;
+  margin-right:0.5cm;
+}
+
+
+
+.nom{
+  text-decoration: underline;
+  font-size: large;
+}
+
+
+.produit3{
+  margin-top: 10cm;
+}
+
+
+
+.image{
+  position:relative;
+}
+
+
+
+.valider{
+  text-align:right;
+  margin-left:86%;
+}
+
+
+
+.prixtotal{
+  text-align:right;
+  text-decoration:underline;
+  border-style:dashed;
+  border-width:1px;
+  margin-left:58%;
+}
+
+
+
+#photo {
+  position: relative;
+  left:7%;
+}
+
+
+
+#Banniere1{
+  position: relative;
+  left: 4.5%;
+}
+
+
+
+#ligne{
+  color:white;
+}
+
+
+
+
+#promo{
+  text-decoration : blink;
+  text-align: center;
+  color:red;
+  float: left;
+  margin-left: 20%;
+}
+
+
+
+#panier{
+  background-image:url(img3-2.jpeg);
+  margin-top:5%;
+  width: 23%;
+  position: relative;
+  float:right;
+  color: white;
+  border-style:outset;
+  text-align:right;
+  font-size:x-small;
+
+}
+
+
+
+
+.hr{
+  color:black;
+}
