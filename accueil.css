@@ -1,29 +1,29 @@
-body{
+body{ 
   background-image: url(wallpaper6.jpg);
   background-attachment: fixed;
 }
 
 
 
-a:link{
+a:link{ 
   color:white;
 }
 
 
 
-a:visited{
+a:visited{ 
   color:white;
 }
 
 
 
-.promo{
+.promo{ 
   text-decoration: blink;
 }
 
 
 
-.Menuu{
+.Menuu{ 
   margin-left: 30%;
   font-size: large;
   text-align: left;
@@ -31,7 +31,7 @@ a:visited{
 }
 
 
-#interieur{
+#interieur{ 
   background-image: url(wallpaper4.jpg);
   border-style:outset;
   position: absolute;
@@ -45,7 +45,7 @@ a:visited{
 
 
 
-#menu1{
+#menu1{ 
   position:absolute;
   border-style:outset;
   margin-left:0%;
@@ -58,13 +58,13 @@ a:visited{
 
 
 
-.article{
+.article{ 
   color:black;
 }
 
 
 
-.prix{
+.prix{ 
   margin-top: 0.5cm;
   color:black;
   font-size: large;
@@ -73,7 +73,7 @@ a:visited{
 
 
 
-.menu{
+.menu{ 
   color:white;
   text-align:center;
 }
@@ -81,26 +81,26 @@ a:visited{
 
 
 
-.description{
+.description{ 
+  color:black;
+} 
+
+
+
+
+.livraison{ 
   color:black;
 }
 
 
 
-
-.livraison{
-  color:black;
-}
-
-
-
-.tableauproduit{
+.tableauproduit{ 
   border-bottom-color:black;
 }
 
 
 
-.liens{
+.liens{ 
   color:white;
   text-align:left;
 }
@@ -113,20 +113,19 @@ a:visited{
 
 
 
-.pollux{
+.pollux{ 
   height: 2cm;
-
+  
 }
 
 
-.article{
+.article{ 
   float: left;
-  margin-right:0.5cm;
-}
+  margin-right:0.5cm;}
 
 
 
-.nom{
+.nom{ 
   text-decoration: underline;
   font-size: large;
 }
@@ -138,20 +137,20 @@ a:visited{
 
 
 
-.image{
+.image{ 
   position:relative;
 }
 
 
 
-.valider{
+.valider{ 
   text-align:right;
   margin-left:86%;
 }
 
 
 
-.prixtotal{
+.prixtotal{ 
   text-align:right;
   text-decoration:underline;
   border-style:dashed;
@@ -161,28 +160,28 @@ a:visited{
 
 
 
-#photo {
+#photo { 
   position: relative;
   left:7%;
 }
 
 
 
-#Banniere1{
+#Banniere1{ 
   position: relative;
   left: 4.5%;
 }
 
 
 
-#ligne{
+#ligne{ 
   color:white;
 }
 
 
 
 
-#promo{
+#promo{ 
   text-decoration : blink;
   text-align: center;
   color:red;
@@ -192,7 +191,7 @@ a:visited{
 
 
 
-#panier{
+#panier{ 
   background-image:url(img3-2.jpeg);
   margin-top:5%;
   width: 23%;
@@ -202,12 +201,12 @@ a:visited{
   border-style:outset;
   text-align:right;
   font-size:x-small;
-
+  
 }
 
 
 
 
-.hr{
-  color:black;
+.hr{ 
+  color:black; 
 }

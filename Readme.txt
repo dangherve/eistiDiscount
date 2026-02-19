@@ -1,4 +1,7 @@
-Note: projet scolaire sans BDD en PHP/HTML/CSS version non optimiser et obsolète
+Note:
+-Ameiloration de la version précente ajout de la BDD
+-Changement des info de BDD pour la securité :-)
+-Tourne dans un docker vu que cela necessite des fonctions supprimées
 
 Rendu du site de vente en ligne.
 Version du 2 février 2007
@@ -8,8 +11,4 @@ Validé par w3c validator.
 
 Crée par Ancel Loïc, Calmet Martial et Dang Hervé.
 
-
-Les noms d'ulisateurs possibles ainsi que leurs mots de passe respectifs sont inscrits dans le fichier utilisateur.txt.
-Le nom du fichier donnant accès a toutes les pages est projet.php.
-
-Pour accéder au site : esitidiscount.dang.ovh
+Pour accéder au site : esitidiscountbdd.dang.ovh
